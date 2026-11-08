@@ -1,7 +1,7 @@
 // Replace the placeholders with the Firebase Web App config from Firebase Console.
 // This web config is intended for the browser; never put a service-account private key here.
 export const firebaseConfig = {
-  apiKey: "YOUR_FIREBASE_WEB_API_KEY",
+  apiKey: "AIzaSyBm0sAEcX8ktdPkJFJtABfTvyAmUD8Xu9Y",
   authDomain: "student-ai-4e35b.firebaseapp.com",
   projectId: "student-ai-4e35b",
   storageBucket: "student-ai-4e35b.firebasestorage.app",
